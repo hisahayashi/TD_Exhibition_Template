@@ -1,0 +1,7 @@
+{
+  "config": {
+    "env": "develop",
+    "resolution": "high",
+    "version": "1.0.0"
+  }
+}
